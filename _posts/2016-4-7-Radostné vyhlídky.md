@@ -1,4 +1,3 @@
-
 <h2>Radostné vyhlídky</h2>
 <b>Báseň Karla Plíhala</b>
 <p>Až mi bude tak sto deset,<br>
