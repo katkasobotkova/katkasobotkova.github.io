@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O Karlovi
+title: O projektu
 permalink: /about/
 ---
 
