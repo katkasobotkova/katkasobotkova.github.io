@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O Karlovi
-permalink: /about/
+permalink: /karel/
 ---
 
 ### Karel Plíhal
