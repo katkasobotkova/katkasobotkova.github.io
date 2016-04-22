@@ -214,6 +214,7 @@ nav {
   margin-top: 30px; // @TODO: Vertically middle align
   font-family: $helveticaNeue; 
   font-size: 14px;
+  width: 100%;
   text-align: left;
   
   @include mobile {
@@ -221,6 +222,7 @@ nav {
     margin-top: 50px;
     display: block;
     font-size: 14px;
+    width: 100%;
     text-align: left;
   }
 
