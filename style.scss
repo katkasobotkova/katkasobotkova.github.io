@@ -193,6 +193,7 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  border: solid;
 }
 
 .site-description {
@@ -201,6 +202,7 @@ img {
   font-size: 16px;
   display: block;
   float: none;
+  border: solid;
   
   @include mobile {
     margin: 3px 0;
@@ -216,6 +218,7 @@ nav {
   font-size: 14px;
   width: 100%;
   text-align: left;
+  border: solid;
   
   @include mobile {
     float: none;
