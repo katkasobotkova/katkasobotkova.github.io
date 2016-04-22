@@ -199,9 +199,11 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  display: block;
   
   @include mobile {
     margin: 3px 0;
+    display: block;
   }
 }
 
@@ -209,13 +211,13 @@ nav {
   float: center;
   margin-top: 30px; // @TODO: Vertically middle align
   font-family: $helveticaNeue; 
-  font-size: 18px;
+  font-size: 14px;
   
   @include mobile {
     float: center;
     margin-top: 50px;
     display: block;
-    font-size: 18px;
+    font-size: 14px;
   }
 
   a {
