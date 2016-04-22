@@ -200,22 +200,24 @@ img {
   color: $gray;
   font-size: 16px;
   display: block;
+  float: none;
   
   @include mobile {
     margin: 3px 0;
     display: block;
+    float: none;
   }
 }
 
 nav {
-  float: center;
+  float: none;
   margin-top: 30px; // @TODO: Vertically middle align
   font-family: $helveticaNeue; 
   font-size: 14px;
   text-align: left;
   
   @include mobile {
-    float: center;
+    float: none;
     margin-top: 50px;
     display: block;
     font-size: 14px;
