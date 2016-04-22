@@ -212,10 +212,10 @@ nav {
   font-size: 18px;
   
   @include mobile {
-    float: right;
+    float: bottom;
     margin-top: 20px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   a {
