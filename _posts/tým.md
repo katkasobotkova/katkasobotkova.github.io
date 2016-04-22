@@ -1,0 +1,4 @@
+<h2>Tým</h2>
+<p>Tým pracující na stránkách o Karlu Plíhalovi čítá tři členy: Hanu Suchou, Hynka Mayera a Kateřinu Sobotkovou. 
+Všichni máme stejný zájem: zpřístupnit fanouškům Karla Plíhala jednoduchou a snadno přístupnou formou jeho tvorbu i koncertní činnost. 
+Týmová spolupráce doposud probíhala příznivě a úspěšně a všichni doufáme, že v tomto duchu budeme i pokračovat. </p>
