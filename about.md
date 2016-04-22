@@ -4,17 +4,52 @@ title: O Karlovi
 permalink: /about/
 ---
 
-### Karel Plíhal
+### O projektu
 
-(* 23. srpna 1958 Přerov) <br>
-je český kytarista, zpěvák, skladatel, textař, básník, hudební režisér a aranžér.
+<b>Cílovoá skupina či skupiny</b><br>
+- fanoušci Karla Plíhala<br><br>
 
-<b>Další informace</b>
+<b>Cíl webu</b><br>
+- Web by měl informovat o jeho tvorbě, poskytovat harmonogram koncertů a 
+recenze na ně. Dále by se zde mohly objevit fotografie  koncertů a texty a 
+akordy písní. Byli bychom rádi, kdyby si zde přišli na své dlouholetí 
+fanoušci Karla Plíhala i lidé, kteří se v jeho tvorbě ještě příliš neorientují.<br><br>
 
-<p>Vystudoval Střední průmyslovou školu strojnickou v Olomouci, poté pracoval jako konstruktér, topič v olomouckém divadle a nakonec se stal písničkářem (ačkoliv nemá žádné hudební vzdělání). Na kytaru hraje od 15 let. Nejprve hrál v olomouckých undergroundových country-swingových kapelách Hučka, Falešní hráči a Plíharmonyje. První sólové vystoupení měl v roce 1983. Mezi léty 1985 až 1993 spolupracoval s Emilem Pospíšilem a v letech 1995-1999 ho doprovázel Petr Freund. Karel Plíhal je čtyřnásobný držitel ceny soutěžního hudebního festivalu Porta.</p>
-<p>Složil hudbu k řadě inscenací Moravského divadla Olomouc, mimo jiné Zlatovláska, Sluha dvou pánů, Láska dona Perlimplína a vášnivost Belisina, Manon Lescaut, Cyrano de Bergerac, Zimní pohádka, O umučení a slavném vzkříšení Pána a Spasitele našeho Ježíše Krista, Giroflé-Giroflá atd. Zhudebnil některé Kainarovy básně, režíroval nahrávání alb např. Jarka Nohavici, Petra Fialy, bratří Ebenů či Bokomary.</p>
-<p>V roce 2006 vydal výběr svých básniček Jako cool v plotě doprovozené ilustracemi Miroslava Bartáka. Za své zatím poslední album Vzduchoprázdniny, které vyšlo v roce 2012, získal Cenu Anděl v kategorii Folk & Country.</p>
+<b>Název webu</b><br> 
+Karel Plíhal<br><br>
 
-<b>Kontaktujte mně</b>
+<b>Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti</b><br>
+http://www.karelplihal.cz/<br>
+https://cs.wikipedia.org/wiki/Karel_Pl%C3%ADhal<br>
+http://plihal.wz.cz/karel-plihal/<br>
+http://zivotopis.osobnosti.cz/karel-plihal.php<br>
+http://www.osobnosti.cz/karel-plihal.php<br><br>
 
-[jaHanicka@seznam.cz](mailto:jaHanicka@seznam.cz)
+<b>Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti</b><br>
+Jako cool v plotě<br>
+Písně Karla Plíhala od A do Ž a jedna navíc<br>
+Rok ďábla<br><br>
+
+<b>Dostupná multimédia (obrázky, videa atp.)</b><br>
+https://www.youtube.com/results?search_query=karel+pl%C3%ADhal<br>
+https://www.google.cz/search?q=Karel+Pl%C3%ADhal&espv=2&biw=639&bih=599&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiVruaTu6DMAhWjA5oKHaR2BUgQ_AUIBigB<br><br>
+
+<b>Vizuální inspirace pro budoucí vzhled webu</b><br>
+https://www.google.cz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj9x5i7u6DMAhXHWxoKHYstB7AQjRwIBw&url=http%3A%2F%2Fwww.trampsky-magazin.cz%2Fblog%2Fpisnicka-na-vikend-vstavej-holka-karel-plihal-472.html&psig=AFQjCNGgdsHkvZVDzceLwQE_Sup1LtWZwg&ust=1461353266915975<br>
+http://www.karelplihal.cz/<br><br>
+
+<b>Základní obsah k tématu</b><br>
+- základní informace<br>
+- na co hraje<br>
+- koncerty<br>
+- fotky<br>
+- videa a nahrávky<br>
+- texty písní<br>
+- básničky a říkanky<br>
+- diskografie<br>
+- recenze<br>
+- diskuze<br><br>
+
+<b>Strategie zveřejňování obsahu</b><br>
+Ze začátku je potřeba dát na web alespoň základní informace a postupně doplňovat aktuality z jeho tvorby.<br><br>
+
