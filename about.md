@@ -19,7 +19,7 @@ fanoušci Karla Plíhala i lidé, kteří se v jeho tvorbě ještě příliš ne
 Karel Plíhal<br><br>
 
 <b>Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti</b><br>
-http://www.karelplihal.cz/<br>
+<a href="http://www.karelplihal.cz/">karelplihal.cz</a><br>
 https://cs.wikipedia.org/wiki/Karel_Pl%C3%ADhal<br>
 http://plihal.wz.cz/karel-plihal/<br>
 http://zivotopis.osobnosti.cz/karel-plihal.php<br>
