@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   
   line-height: 1.7;
-  margin: 1em 0 15px;
+  //margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -236,9 +236,10 @@ nav {
   }
 }
 
-//
-// .main
-//
+
+.main {
+  
+}
 
 .posts > .post {
   padding-bottom: 2em;
@@ -252,7 +253,7 @@ nav {
 
 .post { 
   blockquote {
-    margin: 1em .8em;
+   // margin: 1em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
@@ -261,7 +262,7 @@ nav {
   }
 
   .comments {
-    margin-top: 10px;
+   // margin-top: 10px;
   }
 
   .read-more {
@@ -271,7 +272,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 30px;
+ // margin-top: 30px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
