@@ -47,14 +47,14 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-size: 28px;
+  font-size: 26px;
   a {
     color: inherit;
   }
 }
 
 h2 {  
-  font-size: 24px;
+  font-size: 23px;
 }
 
 h3 {  
@@ -191,8 +191,8 @@ img {
   color: $black;
   cursor: pointer;
   font-family: $helveticaNeue; 
-  font-weight: bold;
-  font-size: 30px;
+  font-weight: 500;
+  font-size: 28px;
   letter-spacing: 1px;
 }
 
