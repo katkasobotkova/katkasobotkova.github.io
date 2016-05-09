@@ -67,7 +67,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  padding: 15px 0;
 }
 
 a {
@@ -114,7 +114,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $darkGray;
 }
 
 // Specify the color of the selection
@@ -148,7 +148,6 @@ img {
 //
 
 .wrapper-masthead {
-  padding-bottom: 20px;
 }
 
 .masthead {
@@ -253,7 +252,7 @@ nav {
 
 .post { 
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
