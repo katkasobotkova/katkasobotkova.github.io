@@ -17,7 +17,7 @@ html {
   font-size: 100%;
   background-image: url('/images/wood.jpg');
   background-attachment: fixed; 
-  min-height: 120%;
+  min-height: 150%;
 }
 
 body {
@@ -275,13 +275,13 @@ nav {
 
 .wrapper-footer {
  // margin-top: 30px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  
 }
 
 footer {
   padding: 3px 0;
   text-align: center;
+  border-top: 3px solid #ddd;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
