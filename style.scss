@@ -148,7 +148,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 .masthead {
@@ -209,14 +209,14 @@ img {
 
 nav {
   float: left;
-  margin-top: 5px; // @TODO: Vertically middle align
+  padding-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue; 
   font-size: 18px;
   font-style: bold underline;
   
   @include mobile {
     float: none;
-    margin-top: 9px;
+    padding-top: 9px;
     display: block;
     font-size: 18px;
   }
