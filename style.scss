@@ -17,7 +17,6 @@ html {
   font-size: 100%;
   background-image: url('/images/wood.jpg');
   background-attachment: fixed; 
-  min-height: 150%;
 }
 
 body {
@@ -240,7 +239,7 @@ nav {
 
 
 .main {
-  
+  min-height: 90%;
 }
 
 .posts > .post {
