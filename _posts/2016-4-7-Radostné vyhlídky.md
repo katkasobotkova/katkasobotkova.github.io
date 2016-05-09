@@ -1,11 +1,7 @@
-<html>
-<head>
-<style type="text/css">
-body {text-indent: 0px; margin-left: 230px; margin-top: 50px; font-family: Helvetica;}
-</style>
-</head>
-
-<body>
+---
+layout: default
+title: Radostné vyhlídky
+---
 <h2>Radostné vyhlídky</h2>
 <b>Báseň Karla Plíhala</b>
 <p>Až mi bude tak sto deset,<br>
@@ -24,5 +20,3 @@ V Olomouci před papežskou návštěvou,<br>
 lez jsem oknem na koleje za Evou.<br>
 Jak mám nyní Evě říci,<br>
 že jsem prase nevěřící.<br></p>
-</body>
-</html>
